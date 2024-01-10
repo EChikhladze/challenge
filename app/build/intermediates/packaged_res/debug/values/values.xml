@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#0171A4</color>
+    <color name="transparent_blue">#370171A4</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Challenge</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="fields_are_not_valid">Fields are not valid!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_in">Log In</string>
+    <string name="log_out">Log Out</string>
+    <string name="password">Password</string>
+    <style name="Base.Theme.Challenge" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Challenge" parent="Base.Theme.Challenge"/>
+</resources>
